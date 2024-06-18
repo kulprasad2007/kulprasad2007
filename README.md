@@ -11,6 +11,7 @@
 - 📫 How to reach me **kulprasad2007@gmail.com**
 
 - ⚡ Fun fact **I like to listen music and reading**
+  <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
