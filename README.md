@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kulprasad2007@gmail.com**
 
-- ⚡ Fun fact **I like to listen music and reading**
+- ⚡ **I like to listen music and reading**
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
