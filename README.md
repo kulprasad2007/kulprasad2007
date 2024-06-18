@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad</h1>
 <h3 align="center">A passionate spatial data analyst and free time android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kulprasad2007&label=Profile%20views&color=0e75b6&style=flat" alt="kulprasad2007" /> </p>
-
 <p align="left"> <a href="https://twitter.com/kulprasad2007" target="blank"><img src="https://img.shields.io/twitter/follow/kulprasad2007?logo=twitter&style=for-the-badge" alt="kulprasad2007" /></a> </p>
 
 - 🌱 I’m currently learning **Google Earth Engine**
