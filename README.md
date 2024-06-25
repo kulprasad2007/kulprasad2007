@@ -1,4 +1,3 @@
-<a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihYnuCch5ZvqVRDT8c2skGwwLdpuYfObkv0mVPTma8gsGarKCFVT6IzNz_gkvPkoMUO1RmWZum3NLNjJum6DVycbusU4qo-RI2Y=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYnuCch5ZvqVRDT8c2skGwwLdpuYfObkv0mVPTma8gsGarKCFVT6IzNz_gkvPkoMUO1RmWZum3NLNjJum6DVycbusU4qo-RI2Y=s1600-rw-v1" /> </a>
 <h1 align="center">Hi 👋, I'm Prasad</h1>
 <h4 align="center">A passionate spatial data analyst and free time android developer from Sangamner, MH, India</h4>
 
